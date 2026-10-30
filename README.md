@@ -5,6 +5,10 @@ A full-stack social media app built with **React + Node.js + Socket.io** — run
 ![Social Circle](https://img.shields.io/badge/React-18-61DAFB?style=flat&logo=react) ![Node](https://img.shields.io/badge/Node.js-Express-339933?style=flat&logo=node.js) ![Socket.io](https://img.shields.io/badge/Socket.io-Realtime-010101?style=flat&logo=socket.io)
 
 ---
+<img width="1920" height="1080" alt="Screenshot (190)" src="https://github.com/user-attachments/assets/6f1c5ad9-2d22-46d1-930c-c85d700ca8ec" />
+<img width="1920" height="1080" alt="Screenshot (191)" src="https://github.com/user-attachments/assets/8a8ad5a3-375e-4eda-865d-bfdfb92585fe" />
+<img width="1920" height="1080" alt="Screenshot (192)" src="https://github.com/user-attachments/assets/5707bd82-1f1f-4832-9087-f0f742b56126" />
+
 
 ## ✨ Features
 
